@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "RevertTransformations	"
+version = "1.0.0"
+name = "Revert Transformations"
+tagline = "Reverts trans when after applied trans was done"
+maintainer = "Blender Bob"
+type = "add-on"
+website = "https://github.com/riouxr/Revert-Transformation"
+tags = ["Objects"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2025 Robert Rioux"]
